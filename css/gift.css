@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: lightgreen;
+}
+.one{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 70px;
+    animation: me 2s linear 3s infinite normal;
+}
+img:ani{
+    background-image: url(../image/milky-way-starry-sky-night-sky-star-956999.jpeg);
+
+}
